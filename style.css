@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body {
+    background-color: #F2DC99;
+    font-family: 'Jost', sans-serif;
+}
+
+.entradaText {
+    width: 300px;
+}
+
+#InputNum {
+    width: 100px;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+}
+
+button:hover {
+    background-color:lightcoral;
+    color: darkgreen;
+}
+
+input:focus {
+    background-color: yellow;
+}
